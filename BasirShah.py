@@ -104,8 +104,8 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
 print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin BasirShah\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-Username = "Basir"
-Password = "Basir"
+Username = "Basir007"
+Password = "Basir007"
 
 loop = 'true'
 while (loop == 'true'):
@@ -430,7 +430,7 @@ def pilih_super():
 : \033[1;96m .....Basirhacker  BasirShah........... \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
                 whatsapp Num
-               +923094161457"""
+               +923494259318"""
 	
 	raw_input("\n\033[1;92m[\033[1;94mBack\033[1;96m]")
 	menu()
